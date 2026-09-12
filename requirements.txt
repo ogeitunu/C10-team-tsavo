@@ -1,1 +1,2 @@
-
+Python Packages
+torch, transformers, sentence-transformers, rank-bm25, pandas, scikit-learn
