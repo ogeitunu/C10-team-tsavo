@@ -5,6 +5,15 @@ Tri AI ML/AI training program in conjunction with Kaggle Competition
 **Repository Name:** `C10-team-tsavo`  
 Cohort: TRI AI Saturdays Cohort 10  
 Competition Outcome: Top-10 Leaderboard Finish (9th / 25 Teams) | Final Evaluation Score: 0.86972 MRR@10  
+**Team Members:**
+Fagbamigbe kehinde (active)
+Chiemerie Chinedu Favour (Active)
+Ogechuwu itunu Aina (Active)
+Abolaji David Adeoye	
+Abdulrahman Buhari Auta	 (Active)
+Adeboye Olugbenga Abiodun	
+Joseph Edet	
+Sadiya Muhammad Kilgori
 
 ## Dataset
 
