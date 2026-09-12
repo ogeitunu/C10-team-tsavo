@@ -8,7 +8,7 @@ This directory contains the dataset artifacts for the **Agricultural Extension R
 * **`documents.csv`**: 695 structured agronomic extension passages fused across Title, Crop, Source, and Body Text.
 * **`test_queries.csv`**: 200 evaluation queries representing real-world smallholder farming inquiries in Sub-Saharan Africa.
 
-## 🌾 Corpus Access & Reproducibility
+## Corpus Access & Reproducibility
 
 1. **Source Data:** Provided via the TRI AI / Kaggle Competition platform (*Agricultural Extension RAG: Smart Retrieval for Farmers*).
 2. **Preprocessing Pipeline:** Raw text fields are enriched automatically during execution using `src/preprocess.py`.
