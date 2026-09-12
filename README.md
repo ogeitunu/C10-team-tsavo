@@ -14,6 +14,7 @@ Abdulrahman Buhari Auta	 (Active)
 Adeboye Olugbenga Abiodun	
 Joseph Edet	
 Sadiya Muhammad Kilgori
+Seun Ajayi- mentor (active)
 
 ## Dataset
 
